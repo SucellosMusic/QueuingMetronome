@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bbofu765krntm"
+path="res://.godot/imported/Cerb Snare.wav-c2f4c6bb9bc19eca0c1232da11942bcd.sample"
+
+[deps]
+
+source_file="res://Assets/Audio/Cerb Snare.wav"
+dest_files=["res://.godot/imported/Cerb Snare.wav-c2f4c6bb9bc19eca0c1232da11942bcd.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bsxw1wfj306xk"
+path="res://.godot/imported/Sucellos Nice.mp3-d0a737c10e778f936d1e8c6d7b50fca9.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/Sucellos Nice.mp3"
+dest_files=["res://.godot/imported/Sucellos Nice.mp3-d0a737c10e778f936d1e8c6d7b50fca9.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
